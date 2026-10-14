@@ -1,0 +1,15 @@
+# Mac系统文件
+.DS_Store
+
+# Python虚拟环境
+.venv/
+
+# Python版本文件（fnm/pyenv）
+.python-version
+
+# 补充常规python忽略项，一并加上
+__pycache__/
+*.pyc
+*.pyo
+.env
+
